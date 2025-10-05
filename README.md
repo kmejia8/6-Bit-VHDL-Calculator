@@ -1,3 +1,5 @@
+## The following project is a work in progress!
+
 # 6-Bit-VHDL-Calculator
 The code creates a VHDL-based calculator that performs addition and subtraction on two 5-bit operands, supporting both signed and unsigned arithmetic. The result is displayed on a seven-segment display in decimal format.
 
