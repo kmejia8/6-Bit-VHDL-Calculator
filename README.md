@@ -7,7 +7,7 @@ The calculator will use a Basys3 FPGA board to input the numbers, choose what ty
 - initialize all inputs and outputs
 - complete algorithm to choose which operation to do based on a button press
     - BTNR = addition, BTNL = subtraction, BTNC = CLEAR
-- as of right now LEDs will not be used.....
+- as of right now LEDs will not be used..... for now...
 - use the SSEG to display what type of operation is being done (signed or unsigned)
     - use FSM to create a scrolling message?
 - figure out how to display results in decimal on SSEG
